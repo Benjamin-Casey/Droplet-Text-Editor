@@ -1,0 +1,14 @@
+# Config
+# .gitignore
+.vscode
+
+# Files
+main
+
+# Build files
+/build
+
+*.a
+*.dylib
+
+**.DS_Store
